@@ -1,0 +1,16 @@
+.thumbnail {
+    margin-bottom: 10px;
+    height: 150px;
+}
+
+.thumbnail p {
+    margin: 5px;
+}
+
+.track-title {
+    text-overflow: ellipsis;
+}
+
+.track-play-button {
+    width: 100%;
+}
